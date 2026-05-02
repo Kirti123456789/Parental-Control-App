@@ -27,7 +27,7 @@ The Parental Control App is an Android-based application designed to help parent
 ##  Screenshots
 
 ![Main Screen](MainScreen.jpg)
-![Accessibility Settings](accessibility_Settings.png)
+![Accessibility Settings](accessibility_Settings.jpg)
 ![App permission](kiddieguard_permission.jpg)
 ![enable accesibility](Accessibility.jpg)
 ![Signup pin](signup_pin.jpg)
